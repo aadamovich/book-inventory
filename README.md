@@ -1,7 +1,7 @@
 
 # book-inventory
 
-Thsi repository contains script to generate labels for books in my personal library.
+This repository contains script to generate labels for books in my personal library.
 
 ## Running
 
